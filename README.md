@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shanon Mwanga
+# Hi there 👋, I'm Mwanga
 
 🚀 Passionate about networks, cloud infrastructure, and building reliable systems.  
 🎯 Focused on delivering secure, scalable, and innovative IT solutions.
@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats
 
-![Shanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanonmwanga&show_icons=true&theme=tokyonight)
+![Shanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwangakeys&show_icons=true&theme=tokyonight)
 
 ---
 
