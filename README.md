@@ -1,8 +1,6 @@
 # Mwanga Profile README 🎉
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mwanga! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
