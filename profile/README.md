@@ -34,7 +34,7 @@
 ## 📫 Get in Touch
 
 - 🌍 [www.honeytech.net](https://www.honeytech.net) *(under development)*  
-- 📧 Email: shanon [at] honeytech [dot] net  
+- 📧 Email: sm@honeytech.net  
 - 💼 LinkedIn: [linkedin.com/in/shanonmwanga](https://www.linkedin.com/in/shanonmwanga) *(optional)*  
 - 📍 Based in Nairobi, Kenya
 
